@@ -1,0 +1,8 @@
+nav li a:hover{
+    background-color: pink;
+    /* background-color: var(--seraj); */
+    color: black;
+    text-decoration: underline;
+    padding: 10px;
+
+}
